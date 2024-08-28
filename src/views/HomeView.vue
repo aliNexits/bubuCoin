@@ -12,7 +12,6 @@
           style="width: 100px; height: 100px"
         />
 
-        <!-- Title -->
         <h3 class="mx-3">🎉🥳<strong>Save The Date</strong>🎉🥳</h3>
 
         <!-- Avatar After -->
